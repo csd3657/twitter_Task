@@ -1,0 +1,748 @@
+[error][14:12:38] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js:7:16)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][14:12:52] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js:7:16)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][14:21:41] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js:7:16)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][14:21:48] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js:7:16)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][14:22:15] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js:7:16)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][15:08:45] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js:6:23)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][15:08:54] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js:6:23)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][15:09:34] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js:6:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\index.js:4:23)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][15:09:41] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js:6:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\index.js:4:23)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][15:09:58] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js:7:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\index.js:4:23)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][15:11:39] - uncaughtException: Cannot read property 'forEach' of undefined
+TypeError: Cannot read property 'forEach' of undefined
+    at D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js:25:21
+    at Request._callback (D:\Users\Tasos\Documents\GitHub\twitterTask\server\node_modules\twitter\lib\twitter.js:215:14)
+    at Request.self.callback (D:\Users\Tasos\Documents\GitHub\twitterTask\server\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:315:20)
+    at Request.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\node_modules\request\request.js:1154:10)
+    at Request.emit (events.js:315:20)
+    at IncomingMessage.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\node_modules\request\request.js:1076:12)
+    at Object.onceWrapper (events.js:421:28)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1220:12)
+[error][15:14:04] - uncaughtException: Cannot read property 'forEach' of undefined
+TypeError: Cannot read property 'forEach' of undefined
+    at D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js:25:21
+    at Request._callback (D:\Users\Tasos\Documents\GitHub\twitterTask\server\node_modules\twitter\lib\twitter.js:215:14)
+    at Request.self.callback (D:\Users\Tasos\Documents\GitHub\twitterTask\server\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:315:20)
+    at Request.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\node_modules\request\request.js:1154:10)
+    at Request.emit (events.js:315:20)
+    at IncomingMessage.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\node_modules\request\request.js:1076:12)
+    at Object.onceWrapper (events.js:421:28)
+    at IncomingMessage.emit (events.js:327:22)
+    at endReadableNT (_stream_readable.js:1220:12)
+[error][15:23:33] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\routes\index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js:6:16)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][15:24:09] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\routes\index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js:6:16)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][15:24:17] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\routes\index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js:6:16)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][15:25:07] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\routes\index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js:6:16)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][15:27:21] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\routes\index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js:6:16)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][15:29:47] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\routes\index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js:6:16)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][15:29:49] - uncaughtException: Cannot find module '../api/routes'
+Require stack:
+- D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js
+- D:\Users\Tasos\Documents\GitHub\twitterTask\server\index.js
+Error: Cannot find module '../api/routes'
+Require stack:
+- D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js
+- D:\Users\Tasos\Documents\GitHub\twitterTask\server\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js:6:16)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+[error][15:29:54] - uncaughtException: Cannot find module '../api/routes'
+Require stack:
+- D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js
+- D:\Users\Tasos\Documents\GitHub\twitterTask\server\index.js
+Error: Cannot find module '../api/routes'
+Require stack:
+- D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js
+- D:\Users\Tasos\Documents\GitHub\twitterTask\server\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js:6:16)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+[error][15:30:27] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller\index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\route\index.js:2:27)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][15:30:31] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller\index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\route\index.js:2:26)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][15:30:47] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller\index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\route\index.js:2:26)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][15:31:04] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller\index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\route\index.js:2:26)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][15:31:18] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller\index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\route\index.js:2:26)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][15:31:30] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller\index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\route\index.js:2:26)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][15:32:32] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller\index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\route\index.js:2:26)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][15:32:42] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller\index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\route\index.js:2:26)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][15:32:45] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller\index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\route\index.js:2:26)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][15:32:53] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller\index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\route\index.js:2:26)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][15:33:43] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller\index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\route\index.js:2:26)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][15:33:56] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller\index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\route\index.js:2:26)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][15:34:41] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller\index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\route\index.js:2:26)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][15:34:48] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller\index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\route\index.js:2:26)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][15:35:01] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller\index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\route\index.js:2:26)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][15:35:09] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller\index.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\route\index.js:2:26)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][15:35:20] - uncaughtException: Cannot find module '../api/route'
+Require stack:
+- D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js
+- D:\Users\Tasos\Documents\GitHub\twitterTask\server\index.js
+Error: Cannot find module '../api/route'
+Require stack:
+- D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js
+- D:\Users\Tasos\Documents\GitHub\twitterTask\server\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js:6:15)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+[error][15:35:25] - uncaughtException: Cannot find module '../api/route'
+Require stack:
+- D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js
+- D:\Users\Tasos\Documents\GitHub\twitterTask\server\index.js
+Error: Cannot find module '../api/route'
+Require stack:
+- D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js
+- D:\Users\Tasos\Documents\GitHub\twitterTask\server\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js:6:15)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+[error][15:35:29] - uncaughtException: Cannot find module '../api/route'
+Require stack:
+- D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js
+- D:\Users\Tasos\Documents\GitHub\twitterTask\server\index.js
+Error: Cannot find module '../api/route'
+Require stack:
+- D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js
+- D:\Users\Tasos\Documents\GitHub\twitterTask\server\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js:6:15)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+[error][15:35:32] - uncaughtException: Cannot find module '../api/route'
+Require stack:
+- D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js
+- D:\Users\Tasos\Documents\GitHub\twitterTask\server\index.js
+Error: Cannot find module '../api/route'
+Require stack:
+- D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js
+- D:\Users\Tasos\Documents\GitHub\twitterTask\server\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js:6:15)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+[error][15:35:40] - uncaughtException: Cannot find module '../controller'
+Require stack:
+- D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\routes.js
+- D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js
+- D:\Users\Tasos\Documents\GitHub\twitterTask\server\index.js
+Error: Cannot find module '../controller'
+Require stack:
+- D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\routes.js
+- D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js
+- D:\Users\Tasos\Documents\GitHub\twitterTask\server\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:965:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:841:27)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\routes.js:2:26)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+[error][15:35:44] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\routes.js:2:26)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][15:38:54] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\routes.js:2:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js:6:15)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][15:39:20] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\routes.js:2:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js:6:15)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][15:39:23] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\routes.js:2:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js:6:15)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][15:39:50] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\routes.js:2:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js:6:15)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][15:40:08] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\routes.js:2:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js:6:15)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][15:56:32] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\routes.js:2:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js:6:15)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][17:05:50] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\routes.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js:6:23)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][17:06:44] - uncaughtException: require(...).load is not a function
+TypeError: require(...).load is not a function
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\routes.js:1:19)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\config\express.js:6:23)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][21:49:33] - uncaughtException: pathArr.reduce is not a function
+TypeError: pathArr.reduce is not a function
+    at getNestedObject (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller.js:3:57)
+    at D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller.js:20:30
+    at Array.forEach (<anonymous>)
+    at D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller.js:19:16
+    at Array.forEach (<anonymous>)
+    at module.exports (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller.js:17:19)
+    at D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\routes.js:12:84
+    at Request._callback (D:\Users\Tasos\Documents\GitHub\twitterTask\server\node_modules\twitter\lib\twitter.js:227:5)
+    at Request.self.callback (D:\Users\Tasos\Documents\GitHub\twitterTask\server\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:315:20)
+[error][21:50:26] - uncaughtException: pathArr.reduce is not a function
+TypeError: pathArr.reduce is not a function
+    at getNestedObject (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller.js:3:57)
+    at D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller.js:20:30
+    at Array.forEach (<anonymous>)
+    at D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller.js:19:16
+    at Array.forEach (<anonymous>)
+    at module.exports (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller.js:17:19)
+    at D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\routes.js:12:84
+    at Request._callback (D:\Users\Tasos\Documents\GitHub\twitterTask\server\node_modules\twitter\lib\twitter.js:227:5)
+    at Request.self.callback (D:\Users\Tasos\Documents\GitHub\twitterTask\server\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:315:20)
+[error][21:50:58] - uncaughtException: pathArr.reduce is not a function
+TypeError: pathArr.reduce is not a function
+    at getNestedObject (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller.js:3:57)
+    at D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller.js:21:30
+    at Array.forEach (<anonymous>)
+    at D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller.js:20:16
+    at Array.forEach (<anonymous>)
+    at module.exports (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller.js:18:19)
+    at D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\routes.js:12:84
+    at Request._callback (D:\Users\Tasos\Documents\GitHub\twitterTask\server\node_modules\twitter\lib\twitter.js:227:5)
+    at Request.self.callback (D:\Users\Tasos\Documents\GitHub\twitterTask\server\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:315:20)
+[error][22:32:56] - uncaughtException: Cannot read property 'push' of undefined
+TypeError: Cannot read property 'push' of undefined
+    at D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller.js:37:23
+    at Array.forEach (<anonymous>)
+    at module.exports (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller.js:32:19)
+    at D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\routes.js:12:84
+    at Request._callback (D:\Users\Tasos\Documents\GitHub\twitterTask\server\node_modules\twitter\lib\twitter.js:227:5)
+    at Request.self.callback (D:\Users\Tasos\Documents\GitHub\twitterTask\server\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:315:20)
+    at Request.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\node_modules\request\request.js:1154:10)
+    at Request.emit (events.js:315:20)
+    at IncomingMessage.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\node_modules\request\request.js:1076:12)
+[error][22:34:07] - uncaughtException: Cannot read property 'push' of undefined
+TypeError: Cannot read property 'push' of undefined
+    at D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller.js:39:23
+    at Array.forEach (<anonymous>)
+    at module.exports (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller.js:32:19)
+    at D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\routes.js:12:84
+    at Request._callback (D:\Users\Tasos\Documents\GitHub\twitterTask\server\node_modules\twitter\lib\twitter.js:227:5)
+    at Request.self.callback (D:\Users\Tasos\Documents\GitHub\twitterTask\server\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:315:20)
+    at Request.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\node_modules\request\request.js:1154:10)
+    at Request.emit (events.js:315:20)
+    at IncomingMessage.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\node_modules\request\request.js:1076:12)
+[error][22:35:14] - uncaughtException: Cannot read property 'push' of undefined
+TypeError: Cannot read property 'push' of undefined
+    at D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller.js:39:23
+    at Array.forEach (<anonymous>)
+    at module.exports (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller.js:32:19)
+    at D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\routes.js:12:84
+    at Request._callback (D:\Users\Tasos\Documents\GitHub\twitterTask\server\node_modules\twitter\lib\twitter.js:227:5)
+    at Request.self.callback (D:\Users\Tasos\Documents\GitHub\twitterTask\server\node_modules\request\request.js:185:22)
+    at Request.emit (events.js:315:20)
+    at Request.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\node_modules\request\request.js:1154:10)
+    at Request.emit (events.js:315:20)
+    at IncomingMessage.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\node_modules\request\request.js:1076:12)
+[error][23:33:30] - uncaughtException: Unexpected string
+D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller.js:11
+    'user.name'
+    ^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at wrapSafe (internal/modules/cjs/loader.js:1053:16)
+    at Module._compile (internal/modules/cjs/loader.js:1101:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\routes.js:2:21)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+[error][23:37:42] - uncaughtException: Unexpected string
+D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\controller.js:16
+    'user.statuses_count':'statuses_count'
+    ^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected string
+    at wrapSafe (internal/modules/cjs/loader.js:1053:16)
+    at Module._compile (internal/modules/cjs/loader.js:1101:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)
+    at Module.load (internal/modules/cjs/loader.js:985:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:878:14)
+    at Module.require (internal/modules/cjs/loader.js:1025:19)
+    at require (internal/modules/cjs/helpers.js:72:18)
+    at Object.<anonymous> (D:\Users\Tasos\Documents\GitHub\twitterTask\server\api\routes.js:2:21)
+    at Module._compile (internal/modules/cjs/loader.js:1137:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1157:10)

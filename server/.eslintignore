@@ -1,0 +1,11 @@
+# .eslintignore
+
+*
+!*/
+!*.js
+!*.ts
+!*.json
+node_modules
+dist
+umd
+.cache
