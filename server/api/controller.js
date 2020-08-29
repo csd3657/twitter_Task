@@ -1,5 +1,4 @@
 const _ = require('lodash');
-const logger = require('../logger');
 
 const fieldToGet = {
   created_at: 'pub_datetime',
@@ -27,7 +26,6 @@ function exportTweet(element) {
 }
 
 module.exports = (tweets) => {
-  logger.info('Start constructing tweets');
 
   const reTweets = {
     mentions: [],
